@@ -1,6 +1,6 @@
 
-### 🧠 BO1 Numbers Effect
----
+## 🧠 BO1 Numbers Effect
+
 
 📦 INSTALLATION
 -------------------------------------------
